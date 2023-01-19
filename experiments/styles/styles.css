@@ -1,0 +1,26 @@
+main {
+    background-color: blue;
+    color: white;
+    padding: 2em;
+    margin: 200px;
+}
+
+p {
+    font-size: 2em;
+    font-family: Arial;
+}
+
+.large-heading {
+    font-size: 3em;
+}
+
+#middle-paragraph {
+    background-color: beige;
+    color: brown;
+}
+
+img.full-width {
+    width: 100%;
+    height: auto;
+}
+
